@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shinnok27
-- 👀 I’m interested in kali, ython and powersehll 
+- 👀 I’m interested in kali, python and powershell 
 - 🌱 I’m currently Studying for CISA
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me  shinnok@hotmail.com
