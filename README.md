@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinnok27
 - 👀 I’m interested in kali, IaC, and python 
 - 🌱 I’m currently Studying for CISSP
-- 💞️ I’m looking to collaborate on  
+- 💞️ I’m looking to collaborate on all things Security 
 - 📫 How to reach me shinnok@hotmail.com
 
 <!---
